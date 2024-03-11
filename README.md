@@ -31,7 +31,7 @@
 
 ## Demo
 
-Check out the live demo of [Bow Master](https://sumitkadam451.github.io/Bow-Master/)
+Check out the live demo of [Bow Master](https://bow-master.pages.dev/)
 
 
 ## 🚀 About Me
